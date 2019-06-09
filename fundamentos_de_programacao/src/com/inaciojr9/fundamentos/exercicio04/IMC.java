@@ -1,4 +1,4 @@
-package com.inaciojr9.fundamentos.exercicio4;
+package com.inaciojr9.fundamentos.exercicio04;
 
 import javax.swing.JOptionPane;
 

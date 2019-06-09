@@ -1,4 +1,4 @@
-package com.inaciojr9.fundamentos.exercicio7;
+package com.inaciojr9.fundamentos.exercicio07;
 
 import java.util.HashMap;
 import java.util.Map;

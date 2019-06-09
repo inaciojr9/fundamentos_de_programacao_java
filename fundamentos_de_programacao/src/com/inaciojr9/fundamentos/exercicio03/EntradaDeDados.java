@@ -1,4 +1,4 @@
-package com.inaciojr9.fundamentos.exercicio3;
+package com.inaciojr9.fundamentos.exercicio03;
 
 import java.util.Scanner;
 
